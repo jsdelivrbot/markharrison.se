@@ -24,7 +24,7 @@ var config = {
     app: {
       name: 'markharrison-se'
     },
-    port: process.env.PORT || 3000,
+    port: process.env.port,
   }
 };
 
